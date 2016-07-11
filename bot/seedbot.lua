@@ -220,7 +220,7 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    "download_media",
+    "download_media",sudo_users={@dash_mammad}
     "invite",
     "all",
     "leave_ban",
